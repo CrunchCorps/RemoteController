@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/CrunchCorps/RemoteController/blob/main/remotecontrollerLogo.png">
+  <img src="https://github.com/CrunchCorps/RemoteController/blob/main/logobakeneko.png">
   <p align="center">Bash script that conducts scans on a target IP while logging anonymously into a secure virtual server.</p>
   <p align="center">
   </a>
