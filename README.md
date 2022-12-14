@@ -48,11 +48,11 @@ Download the [zip](../../main.zip)
 
 Clone the repository:
 
-      > git clone https://github.com/CrunchCorps/RemoteController.git
+      git clone https://github.com/CrunchCorps/RemoteController.git
 
 Running the script [require SUDO privilges]:
   
-      > sudo bash RemoteController.sh
+      sudo bash /.RemoteController.sh
 
 ---
   
